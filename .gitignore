@@ -1,0 +1,17 @@
+# Ignore Node dependencies
+/node_modules
+
+# Ignore compiled TypeScript code
+/dist
+
+# Ignore environment variable files
+.env
+
+# Log files of npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system files (Optional)
+.DS_Store
+Thumbs.db

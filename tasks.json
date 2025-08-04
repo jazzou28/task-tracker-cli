@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d2d63929-dcbe-41b1-81d8-fcbe8e5528db",
+    "description": "Tercera tarea ACTUALIZADA",
+    "status": "done",
+    "createdAt": "2025-07-28T17:16:08.781Z",
+    "updatedAt": "2025-07-28T17:45:44.217Z"
+  },
+  {
+    "id": "01c65aea-6f38-4e9f-a99b-ff27d3cd76a9",
+    "description": "Cuarta tarea",
+    "status": "todo",
+    "createdAt": "2025-07-28T17:34:48.665Z",
+    "updatedAt": "2025-07-28T17:34:48.665Z"
+  }
+]
