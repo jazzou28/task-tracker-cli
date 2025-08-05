@@ -25,7 +25,7 @@ npm install
 ```
 
 **3. Execute the commands:**
-Usa npm start -- seguido del comando que desees.
+Use npm start - followed by the command you want.
 
 * Add a task:
 ```bash
@@ -44,7 +44,7 @@ npm start -- list done
 
 * Update a task:
 ```bash
-npm start -- update <ID> "Nueva descripción de la tarea"
+npm start -- update <ID> "New task description"
 ```
 
 * Mark a task as done:
